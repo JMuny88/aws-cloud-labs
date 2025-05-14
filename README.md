@@ -11,4 +11,5 @@ Hands-on AWS Labs covering IAM, VPC, EC2, EBS, RDS, and Load Balancing
 - Console login simulation using IAM credentials
 
 **Screenshot Proof**:
-![IAM Lab Completion](.iam-lab-screenshot.png)
+![IAM Lab Completion](.iam-lab-screensh<img width="1426" alt="iam-lab-screenshot" src="https://github.com/user-attachments/assets/e94942e0-c932-4da0-902c-6d08da0d2815" />
+ot.png)
